@@ -13,3 +13,9 @@ Android App written with MIT App Inventor by my 14 year old daughter and me.
 Sending ON/OFF to AgOpenGPS for documentation.
 
 see youtube movie
+
+short German version:
+https://youtu.be/Rias-1-ZbCU
+
+longer englisch version with more explantion
+https://youtu.be/Cb1aJjE4Jjw
